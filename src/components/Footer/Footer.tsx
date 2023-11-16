@@ -23,10 +23,10 @@ const Footer = () => {
           <p>Leon is a silly willy</p>
         </div>
         <div className="col mb-3">
-          <h5>Partners</h5>
-          <p>Torture Garden</p>
-          <p>Klub Verboten</p>
-          <p>Climax</p>
+          <h5>Bespoke tours</h5>
+          <p>
+            Tell us about your kinks and we will design the perfect tour for you
+          </p>
         </div>
       </footer>
     </div>
