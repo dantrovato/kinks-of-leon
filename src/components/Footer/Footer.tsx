@@ -16,15 +16,17 @@ const Footer = () => {
 
         <div className="col mb-3">
           <h5>Best of London</h5>
-          <p>blah blah</p>
+          <p>Or worst. Depends on your opinion</p>
         </div>
         <div className="col mb-3">
-          <h5>Section</h5>
-          <p>favacce</p>
+          <h5>Contact</h5>
+          <p>Leon is a silly willy</p>
         </div>
         <div className="col mb-3">
-          <h5>Section</h5>
-          <p>favacce</p>
+          <h5>Partners</h5>
+          <p>Torture Garden</p>
+          <p>Klub Verboten</p>
+          <p>Climax</p>
         </div>
       </footer>
     </div>
