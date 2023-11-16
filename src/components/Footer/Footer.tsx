@@ -15,8 +15,14 @@ const Footer = () => {
         <div className="col mb-3"></div>
 
         <div className="col mb-3">
-          <h5>Best of London</h5>
-          <p>Or worst. Depends on your opinion</p>
+          <h5>Why a tour?</h5>
+          <p>
+            You can find plenty of things to do by yourself in London but the
+            London kinky scene can be cliquey. If you want to be part of a
+            group, we are at the epicenter of the scene and will be able to
+            introduce you the inner crowd, as well as giving you introductions
+            to the best after parties{" "}
+          </p>
         </div>
         <div className="col mb-3">
           <h5>Contact</h5>
