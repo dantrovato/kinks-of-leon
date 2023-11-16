@@ -11,7 +11,7 @@ const Navbar = () => {
   return (
     <nav className="navbar navbar-expand-lg navbar-light bg-black">
       <div className="container-fluid m-3">
-        <span className="navbar-brand text-white">Kinks of Leon</span>
+        <span className="navbar-brand text-white pr-5">Kinks of Leon</span>
         <button className="navbar-toggler" type="button" onClick={toggleNavbar}>
           <span className="navbar-toggler-icon"></span>
         </button>
